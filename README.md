@@ -1,7 +1,7 @@
 # Exno:1
 Data Cleaning Process
 
-# AIM
+# AIM        <<include your coding and its corressponding output screen shots here>>
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
 # Explanation
@@ -21,6 +21,20 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+"C:\Users\admin\Pictures\Screenshot (1).png"
+"C:\Users\admin\Pictures\Screenshot (2).png"
+"C:\Users\admin\Pictures\Screenshot (3).png"
+"C:\Users\admin\Pictures\Screenshot (4).png"
+"C:\Users\admin\Pictures\Screenshot (5).png"
+"C:\Users\admin\Pictures\Screenshot (6).png"
+"C:\Users\admin\Pictures\Screenshot (7).png"
+"C:\Users\admin\Pictures\Screenshot (8).png"
+"C:\Users\admin\Pictures\Screenshot (9).png"
+"C:\Users\admin\Pictures\Screenshot (10).png"
+"C:\Users\admin\Pictures\Screenshot (13).png"
+"C:\Users\admin\Pictures\Screenshot (14).png"
+"C:\Users\admin\Pictures\Screenshot (15).png"
+
+
 # Result
           <<include your Result here>>
