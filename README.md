@@ -1,4 +1,4 @@
-![Screenshot (5)](https://github.com/user-attachments/assets/15603726-7622-41f3-a75a-13a1cfac1815)![Screenshot (6)](https://github.com/user-attachments/assets/7acc47de-00ac-4c5b-beab-353f13000308)# Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM        <<include your coding and its corressponding output screen shots here>>
